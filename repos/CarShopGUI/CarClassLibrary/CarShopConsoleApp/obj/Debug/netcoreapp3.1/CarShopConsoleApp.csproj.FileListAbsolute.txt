@@ -1,0 +1,16 @@
+C:\Users\zerop\source\repos\CarClassLibrary\CarShopConsoleApp\bin\Debug\netcoreapp3.1\CarShopConsoleApp.exe
+C:\Users\zerop\source\repos\CarClassLibrary\CarShopConsoleApp\bin\Debug\netcoreapp3.1\CarShopConsoleApp.deps.json
+C:\Users\zerop\source\repos\CarClassLibrary\CarShopConsoleApp\bin\Debug\netcoreapp3.1\CarShopConsoleApp.runtimeconfig.json
+C:\Users\zerop\source\repos\CarClassLibrary\CarShopConsoleApp\bin\Debug\netcoreapp3.1\CarShopConsoleApp.runtimeconfig.dev.json
+C:\Users\zerop\source\repos\CarClassLibrary\CarShopConsoleApp\bin\Debug\netcoreapp3.1\CarShopConsoleApp.dll
+C:\Users\zerop\source\repos\CarClassLibrary\CarShopConsoleApp\bin\Debug\netcoreapp3.1\CarShopConsoleApp.pdb
+C:\Users\zerop\source\repos\CarClassLibrary\CarShopConsoleApp\bin\Debug\netcoreapp3.1\CarClassLibrary.dll
+C:\Users\zerop\source\repos\CarClassLibrary\CarShopConsoleApp\bin\Debug\netcoreapp3.1\CarClassLibrary.pdb
+C:\Users\zerop\source\repos\CarClassLibrary\CarShopConsoleApp\obj\Debug\netcoreapp3.1\CarShopConsoleApp.csprojAssemblyReference.cache
+C:\Users\zerop\source\repos\CarClassLibrary\CarShopConsoleApp\obj\Debug\netcoreapp3.1\CarShopConsoleApp.AssemblyInfoInputs.cache
+C:\Users\zerop\source\repos\CarClassLibrary\CarShopConsoleApp\obj\Debug\netcoreapp3.1\CarShopConsoleApp.AssemblyInfo.cs
+C:\Users\zerop\source\repos\CarClassLibrary\CarShopConsoleApp\obj\Debug\netcoreapp3.1\CarShopConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\zerop\source\repos\CarClassLibrary\CarShopConsoleApp\obj\Debug\netcoreapp3.1\CarShopConsoleApp.csproj.CopyComplete
+C:\Users\zerop\source\repos\CarClassLibrary\CarShopConsoleApp\obj\Debug\netcoreapp3.1\CarShopConsoleApp.dll
+C:\Users\zerop\source\repos\CarClassLibrary\CarShopConsoleApp\obj\Debug\netcoreapp3.1\CarShopConsoleApp.pdb
+C:\Users\zerop\source\repos\CarClassLibrary\CarShopConsoleApp\obj\Debug\netcoreapp3.1\CarShopConsoleApp.genruntimeconfig.cache

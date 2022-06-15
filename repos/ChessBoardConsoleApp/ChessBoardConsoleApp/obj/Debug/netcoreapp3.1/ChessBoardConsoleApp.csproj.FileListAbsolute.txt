@@ -1,0 +1,16 @@
+C:\Users\zerop\source\repos\ChessBoardConsoleApp\ChessBoardConsoleApp\bin\Debug\netcoreapp3.1\ChessBoardConsoleApp.exe
+C:\Users\zerop\source\repos\ChessBoardConsoleApp\ChessBoardConsoleApp\bin\Debug\netcoreapp3.1\ChessBoardConsoleApp.deps.json
+C:\Users\zerop\source\repos\ChessBoardConsoleApp\ChessBoardConsoleApp\bin\Debug\netcoreapp3.1\ChessBoardConsoleApp.runtimeconfig.json
+C:\Users\zerop\source\repos\ChessBoardConsoleApp\ChessBoardConsoleApp\bin\Debug\netcoreapp3.1\ChessBoardConsoleApp.runtimeconfig.dev.json
+C:\Users\zerop\source\repos\ChessBoardConsoleApp\ChessBoardConsoleApp\bin\Debug\netcoreapp3.1\ChessBoardConsoleApp.dll
+C:\Users\zerop\source\repos\ChessBoardConsoleApp\ChessBoardConsoleApp\bin\Debug\netcoreapp3.1\ChessBoardConsoleApp.pdb
+C:\Users\zerop\source\repos\ChessBoardConsoleApp\ChessBoardConsoleApp\bin\Debug\netcoreapp3.1\ChessBoardModel.dll
+C:\Users\zerop\source\repos\ChessBoardConsoleApp\ChessBoardConsoleApp\bin\Debug\netcoreapp3.1\ChessBoardModel.pdb
+C:\Users\zerop\source\repos\ChessBoardConsoleApp\ChessBoardConsoleApp\obj\Debug\netcoreapp3.1\ChessBoardConsoleApp.csprojAssemblyReference.cache
+C:\Users\zerop\source\repos\ChessBoardConsoleApp\ChessBoardConsoleApp\obj\Debug\netcoreapp3.1\ChessBoardConsoleApp.AssemblyInfoInputs.cache
+C:\Users\zerop\source\repos\ChessBoardConsoleApp\ChessBoardConsoleApp\obj\Debug\netcoreapp3.1\ChessBoardConsoleApp.AssemblyInfo.cs
+C:\Users\zerop\source\repos\ChessBoardConsoleApp\ChessBoardConsoleApp\obj\Debug\netcoreapp3.1\ChessBoardConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\zerop\source\repos\ChessBoardConsoleApp\ChessBoardConsoleApp\obj\Debug\netcoreapp3.1\ChessBoardConsoleApp.csproj.CopyComplete
+C:\Users\zerop\source\repos\ChessBoardConsoleApp\ChessBoardConsoleApp\obj\Debug\netcoreapp3.1\ChessBoardConsoleApp.dll
+C:\Users\zerop\source\repos\ChessBoardConsoleApp\ChessBoardConsoleApp\obj\Debug\netcoreapp3.1\ChessBoardConsoleApp.pdb
+C:\Users\zerop\source\repos\ChessBoardConsoleApp\ChessBoardConsoleApp\obj\Debug\netcoreapp3.1\ChessBoardConsoleApp.genruntimeconfig.cache

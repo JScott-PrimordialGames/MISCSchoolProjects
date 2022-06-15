@@ -1,0 +1,11 @@
+C:\Users\zerop\source\repos\SuperHero\SuperHero\bin\Debug\SuperHero.exe.config
+C:\Users\zerop\source\repos\SuperHero\SuperHero\bin\Debug\SuperHero.exe
+C:\Users\zerop\source\repos\SuperHero\SuperHero\bin\Debug\SuperHero.pdb
+C:\Users\zerop\source\repos\SuperHero\SuperHero\obj\Debug\SuperHero.csprojAssemblyReference.cache
+C:\Users\zerop\source\repos\SuperHero\SuperHero\obj\Debug\SuperHero.Form1.resources
+C:\Users\zerop\source\repos\SuperHero\SuperHero\obj\Debug\SuperHero.Properties.Resources.resources
+C:\Users\zerop\source\repos\SuperHero\SuperHero\obj\Debug\SuperHero.csproj.GenerateResource.cache
+C:\Users\zerop\source\repos\SuperHero\SuperHero\obj\Debug\SuperHero.csproj.CoreCompileInputs.cache
+C:\Users\zerop\source\repos\SuperHero\SuperHero\obj\Debug\SuperHero.exe
+C:\Users\zerop\source\repos\SuperHero\SuperHero\obj\Debug\SuperHero.pdb
+C:\Users\zerop\source\repos\SuperHero\SuperHero\obj\Debug\SuperHero.Form2.resources

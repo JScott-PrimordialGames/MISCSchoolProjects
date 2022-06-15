@@ -1,0 +1,13 @@
+C:\Users\zerop\source\repos\MilestoneProject\MilestoneProject\obj\Debug\netcoreapp3.1\MilestoneProject.csprojAssemblyReference.cache
+C:\Users\zerop\source\repos\MilestoneProject\MilestoneProject\obj\Debug\netcoreapp3.1\MilestoneProject.AssemblyInfoInputs.cache
+C:\Users\zerop\source\repos\MilestoneProject\MilestoneProject\obj\Debug\netcoreapp3.1\MilestoneProject.AssemblyInfo.cs
+C:\Users\zerop\source\repos\MilestoneProject\MilestoneProject\obj\Debug\netcoreapp3.1\MilestoneProject.csproj.CoreCompileInputs.cache
+C:\Users\zerop\source\repos\MilestoneProject\MilestoneProject\bin\Debug\netcoreapp3.1\MilestoneProject.exe
+C:\Users\zerop\source\repos\MilestoneProject\MilestoneProject\bin\Debug\netcoreapp3.1\MilestoneProject.deps.json
+C:\Users\zerop\source\repos\MilestoneProject\MilestoneProject\bin\Debug\netcoreapp3.1\MilestoneProject.runtimeconfig.json
+C:\Users\zerop\source\repos\MilestoneProject\MilestoneProject\bin\Debug\netcoreapp3.1\MilestoneProject.runtimeconfig.dev.json
+C:\Users\zerop\source\repos\MilestoneProject\MilestoneProject\bin\Debug\netcoreapp3.1\MilestoneProject.dll
+C:\Users\zerop\source\repos\MilestoneProject\MilestoneProject\bin\Debug\netcoreapp3.1\MilestoneProject.pdb
+C:\Users\zerop\source\repos\MilestoneProject\MilestoneProject\obj\Debug\netcoreapp3.1\MilestoneProject.dll
+C:\Users\zerop\source\repos\MilestoneProject\MilestoneProject\obj\Debug\netcoreapp3.1\MilestoneProject.pdb
+C:\Users\zerop\source\repos\MilestoneProject\MilestoneProject\obj\Debug\netcoreapp3.1\MilestoneProject.genruntimeconfig.cache

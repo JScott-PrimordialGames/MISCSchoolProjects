@@ -1,0 +1,13 @@
+C:\Users\zerop\source\repos\AnimalClasses\AnimalClasses\bin\Debug\netcoreapp3.1\AnimalClasses.exe
+C:\Users\zerop\source\repos\AnimalClasses\AnimalClasses\bin\Debug\netcoreapp3.1\AnimalClasses.deps.json
+C:\Users\zerop\source\repos\AnimalClasses\AnimalClasses\bin\Debug\netcoreapp3.1\AnimalClasses.runtimeconfig.json
+C:\Users\zerop\source\repos\AnimalClasses\AnimalClasses\bin\Debug\netcoreapp3.1\AnimalClasses.runtimeconfig.dev.json
+C:\Users\zerop\source\repos\AnimalClasses\AnimalClasses\bin\Debug\netcoreapp3.1\AnimalClasses.dll
+C:\Users\zerop\source\repos\AnimalClasses\AnimalClasses\bin\Debug\netcoreapp3.1\AnimalClasses.pdb
+C:\Users\zerop\source\repos\AnimalClasses\AnimalClasses\obj\Debug\netcoreapp3.1\AnimalClasses.csprojAssemblyReference.cache
+C:\Users\zerop\source\repos\AnimalClasses\AnimalClasses\obj\Debug\netcoreapp3.1\AnimalClasses.AssemblyInfoInputs.cache
+C:\Users\zerop\source\repos\AnimalClasses\AnimalClasses\obj\Debug\netcoreapp3.1\AnimalClasses.AssemblyInfo.cs
+C:\Users\zerop\source\repos\AnimalClasses\AnimalClasses\obj\Debug\netcoreapp3.1\AnimalClasses.csproj.CoreCompileInputs.cache
+C:\Users\zerop\source\repos\AnimalClasses\AnimalClasses\obj\Debug\netcoreapp3.1\AnimalClasses.dll
+C:\Users\zerop\source\repos\AnimalClasses\AnimalClasses\obj\Debug\netcoreapp3.1\AnimalClasses.pdb
+C:\Users\zerop\source\repos\AnimalClasses\AnimalClasses\obj\Debug\netcoreapp3.1\AnimalClasses.genruntimeconfig.cache

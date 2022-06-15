@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextFileDataAccessDemo", "TextFileDataAccessDemo\TextFileDataAccessDemo.csproj", "{2EB050DB-216F-4F9B-A67F-F193235699CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectIO", "ProjectIO\ProjectIO.csproj", "{342C6534-E9A3-42CC-8795-45190CDDFEDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EB050DB-216F-4F9B-A67F-F193235699CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EB050DB-216F-4F9B-A67F-F193235699CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EB050DB-216F-4F9B-A67F-F193235699CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EB050DB-216F-4F9B-A67F-F193235699CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{342C6534-E9A3-42CC-8795-45190CDDFEDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{342C6534-E9A3-42CC-8795-45190CDDFEDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{342C6534-E9A3-42CC-8795-45190CDDFEDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{342C6534-E9A3-42CC-8795-45190CDDFEDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8A802FD-4DA3-49FD-94D6-62AD822AC1FE}
+	EndGlobalSection
+EndGlobal

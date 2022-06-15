@@ -1,0 +1,13 @@
+C:\Users\zerop\source\repos\Factoral\Factoral\bin\Debug\netcoreapp3.1\Factoral.exe
+C:\Users\zerop\source\repos\Factoral\Factoral\bin\Debug\netcoreapp3.1\Factoral.deps.json
+C:\Users\zerop\source\repos\Factoral\Factoral\bin\Debug\netcoreapp3.1\Factoral.runtimeconfig.json
+C:\Users\zerop\source\repos\Factoral\Factoral\bin\Debug\netcoreapp3.1\Factoral.runtimeconfig.dev.json
+C:\Users\zerop\source\repos\Factoral\Factoral\bin\Debug\netcoreapp3.1\Factoral.dll
+C:\Users\zerop\source\repos\Factoral\Factoral\bin\Debug\netcoreapp3.1\Factoral.pdb
+C:\Users\zerop\source\repos\Factoral\Factoral\obj\Debug\netcoreapp3.1\Factoral.csprojAssemblyReference.cache
+C:\Users\zerop\source\repos\Factoral\Factoral\obj\Debug\netcoreapp3.1\Factoral.AssemblyInfoInputs.cache
+C:\Users\zerop\source\repos\Factoral\Factoral\obj\Debug\netcoreapp3.1\Factoral.AssemblyInfo.cs
+C:\Users\zerop\source\repos\Factoral\Factoral\obj\Debug\netcoreapp3.1\Factoral.csproj.CoreCompileInputs.cache
+C:\Users\zerop\source\repos\Factoral\Factoral\obj\Debug\netcoreapp3.1\Factoral.dll
+C:\Users\zerop\source\repos\Factoral\Factoral\obj\Debug\netcoreapp3.1\Factoral.pdb
+C:\Users\zerop\source\repos\Factoral\Factoral\obj\Debug\netcoreapp3.1\Factoral.genruntimeconfig.cache

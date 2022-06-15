@@ -1,0 +1,13 @@
+C:\Users\zerop\source\repos\ChessBoardGUIApp\ChessBoardGUIApp\bin\Debug\ChessBoardGUIApp.exe.config
+C:\Users\zerop\source\repos\ChessBoardGUIApp\ChessBoardGUIApp\bin\Debug\ChessBoardGUIApp.exe
+C:\Users\zerop\source\repos\ChessBoardGUIApp\ChessBoardGUIApp\bin\Debug\ChessBoardGUIApp.pdb
+C:\Users\zerop\source\repos\ChessBoardGUIApp\ChessBoardGUIApp\bin\Debug\ChessBoardModel.dll
+C:\Users\zerop\source\repos\ChessBoardGUIApp\ChessBoardGUIApp\bin\Debug\ChessBoardModel.pdb
+C:\Users\zerop\source\repos\ChessBoardGUIApp\ChessBoardGUIApp\obj\Debug\ChessBoardGUIApp.csprojAssemblyReference.cache
+C:\Users\zerop\source\repos\ChessBoardGUIApp\ChessBoardGUIApp\obj\Debug\ChessBoardGUIApp.Form1.resources
+C:\Users\zerop\source\repos\ChessBoardGUIApp\ChessBoardGUIApp\obj\Debug\ChessBoardGUIApp.Properties.Resources.resources
+C:\Users\zerop\source\repos\ChessBoardGUIApp\ChessBoardGUIApp\obj\Debug\ChessBoardGUIApp.csproj.GenerateResource.cache
+C:\Users\zerop\source\repos\ChessBoardGUIApp\ChessBoardGUIApp\obj\Debug\ChessBoardGUIApp.csproj.CoreCompileInputs.cache
+C:\Users\zerop\source\repos\ChessBoardGUIApp\ChessBoardGUIApp\obj\Debug\ChessBoardGUIApp.csproj.CopyComplete
+C:\Users\zerop\source\repos\ChessBoardGUIApp\ChessBoardGUIApp\obj\Debug\ChessBoardGUIApp.exe
+C:\Users\zerop\source\repos\ChessBoardGUIApp\ChessBoardGUIApp\obj\Debug\ChessBoardGUIApp.pdb

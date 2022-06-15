@@ -1,0 +1,10 @@
+C:\Users\zerop\source\repos\Milestone5\Milestone5\bin\Debug\Milestone5.exe.config
+C:\Users\zerop\source\repos\Milestone5\Milestone5\bin\Debug\Milestone5.exe
+C:\Users\zerop\source\repos\Milestone5\Milestone5\bin\Debug\Milestone5.pdb
+C:\Users\zerop\source\repos\Milestone5\Milestone5\obj\Debug\Milestone5.csprojAssemblyReference.cache
+C:\Users\zerop\source\repos\Milestone5\Milestone5\obj\Debug\Milestone5.Form1.resources
+C:\Users\zerop\source\repos\Milestone5\Milestone5\obj\Debug\Milestone5.Properties.Resources.resources
+C:\Users\zerop\source\repos\Milestone5\Milestone5\obj\Debug\Milestone5.csproj.GenerateResource.cache
+C:\Users\zerop\source\repos\Milestone5\Milestone5\obj\Debug\Milestone5.csproj.CoreCompileInputs.cache
+C:\Users\zerop\source\repos\Milestone5\Milestone5\obj\Debug\Milestone5.exe
+C:\Users\zerop\source\repos\Milestone5\Milestone5\obj\Debug\Milestone5.pdb

@@ -1,0 +1,13 @@
+C:\Users\zerop\source\repos\KnightTour\KnightTour\bin\Debug\netcoreapp3.1\KnightTour.exe
+C:\Users\zerop\source\repos\KnightTour\KnightTour\bin\Debug\netcoreapp3.1\KnightTour.deps.json
+C:\Users\zerop\source\repos\KnightTour\KnightTour\bin\Debug\netcoreapp3.1\KnightTour.runtimeconfig.json
+C:\Users\zerop\source\repos\KnightTour\KnightTour\bin\Debug\netcoreapp3.1\KnightTour.runtimeconfig.dev.json
+C:\Users\zerop\source\repos\KnightTour\KnightTour\bin\Debug\netcoreapp3.1\KnightTour.dll
+C:\Users\zerop\source\repos\KnightTour\KnightTour\bin\Debug\netcoreapp3.1\KnightTour.pdb
+C:\Users\zerop\source\repos\KnightTour\KnightTour\obj\Debug\netcoreapp3.1\KnightTour.csprojAssemblyReference.cache
+C:\Users\zerop\source\repos\KnightTour\KnightTour\obj\Debug\netcoreapp3.1\KnightTour.AssemblyInfoInputs.cache
+C:\Users\zerop\source\repos\KnightTour\KnightTour\obj\Debug\netcoreapp3.1\KnightTour.AssemblyInfo.cs
+C:\Users\zerop\source\repos\KnightTour\KnightTour\obj\Debug\netcoreapp3.1\KnightTour.csproj.CoreCompileInputs.cache
+C:\Users\zerop\source\repos\KnightTour\KnightTour\obj\Debug\netcoreapp3.1\KnightTour.dll
+C:\Users\zerop\source\repos\KnightTour\KnightTour\obj\Debug\netcoreapp3.1\KnightTour.pdb
+C:\Users\zerop\source\repos\KnightTour\KnightTour\obj\Debug\netcoreapp3.1\KnightTour.genruntimeconfig.cache

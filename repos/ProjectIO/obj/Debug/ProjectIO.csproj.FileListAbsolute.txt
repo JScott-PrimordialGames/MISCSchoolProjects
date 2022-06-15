@@ -1,0 +1,10 @@
+C:\Users\zerop\source\repos\ProjectIO\bin\Debug\ProjectIO.exe.config
+C:\Users\zerop\source\repos\ProjectIO\bin\Debug\ProjectIO.exe
+C:\Users\zerop\source\repos\ProjectIO\bin\Debug\ProjectIO.pdb
+C:\Users\zerop\source\repos\ProjectIO\obj\Debug\ProjectIO.csprojAssemblyReference.cache
+C:\Users\zerop\source\repos\ProjectIO\obj\Debug\ProjectIO.Form1.resources
+C:\Users\zerop\source\repos\ProjectIO\obj\Debug\ProjectIO.Properties.Resources.resources
+C:\Users\zerop\source\repos\ProjectIO\obj\Debug\ProjectIO.csproj.GenerateResource.cache
+C:\Users\zerop\source\repos\ProjectIO\obj\Debug\ProjectIO.csproj.CoreCompileInputs.cache
+C:\Users\zerop\source\repos\ProjectIO\obj\Debug\ProjectIO.exe
+C:\Users\zerop\source\repos\ProjectIO\obj\Debug\ProjectIO.pdb

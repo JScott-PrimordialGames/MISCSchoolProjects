@@ -1,0 +1,13 @@
+C:\Users\zerop\source\repos\CountToOne\CountToOne\bin\Debug\netcoreapp3.1\CountToOne.exe
+C:\Users\zerop\source\repos\CountToOne\CountToOne\bin\Debug\netcoreapp3.1\CountToOne.deps.json
+C:\Users\zerop\source\repos\CountToOne\CountToOne\bin\Debug\netcoreapp3.1\CountToOne.runtimeconfig.json
+C:\Users\zerop\source\repos\CountToOne\CountToOne\bin\Debug\netcoreapp3.1\CountToOne.runtimeconfig.dev.json
+C:\Users\zerop\source\repos\CountToOne\CountToOne\bin\Debug\netcoreapp3.1\CountToOne.dll
+C:\Users\zerop\source\repos\CountToOne\CountToOne\bin\Debug\netcoreapp3.1\CountToOne.pdb
+C:\Users\zerop\source\repos\CountToOne\CountToOne\obj\Debug\netcoreapp3.1\CountToOne.csprojAssemblyReference.cache
+C:\Users\zerop\source\repos\CountToOne\CountToOne\obj\Debug\netcoreapp3.1\CountToOne.AssemblyInfoInputs.cache
+C:\Users\zerop\source\repos\CountToOne\CountToOne\obj\Debug\netcoreapp3.1\CountToOne.AssemblyInfo.cs
+C:\Users\zerop\source\repos\CountToOne\CountToOne\obj\Debug\netcoreapp3.1\CountToOne.csproj.CoreCompileInputs.cache
+C:\Users\zerop\source\repos\CountToOne\CountToOne\obj\Debug\netcoreapp3.1\CountToOne.dll
+C:\Users\zerop\source\repos\CountToOne\CountToOne\obj\Debug\netcoreapp3.1\CountToOne.pdb
+C:\Users\zerop\source\repos\CountToOne\CountToOne\obj\Debug\netcoreapp3.1\CountToOne.genruntimeconfig.cache

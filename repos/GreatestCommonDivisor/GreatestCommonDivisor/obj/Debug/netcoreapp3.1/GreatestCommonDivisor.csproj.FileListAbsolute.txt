@@ -1,0 +1,12 @@
+C:\Users\zerop\source\repos\GreatestCommonDivisor\GreatestCommonDivisor\bin\Debug\netcoreapp3.1\GreatestCommonDivisor.exe
+C:\Users\zerop\source\repos\GreatestCommonDivisor\GreatestCommonDivisor\bin\Debug\netcoreapp3.1\GreatestCommonDivisor.deps.json
+C:\Users\zerop\source\repos\GreatestCommonDivisor\GreatestCommonDivisor\bin\Debug\netcoreapp3.1\GreatestCommonDivisor.runtimeconfig.json
+C:\Users\zerop\source\repos\GreatestCommonDivisor\GreatestCommonDivisor\bin\Debug\netcoreapp3.1\GreatestCommonDivisor.runtimeconfig.dev.json
+C:\Users\zerop\source\repos\GreatestCommonDivisor\GreatestCommonDivisor\bin\Debug\netcoreapp3.1\GreatestCommonDivisor.dll
+C:\Users\zerop\source\repos\GreatestCommonDivisor\GreatestCommonDivisor\bin\Debug\netcoreapp3.1\GreatestCommonDivisor.pdb
+C:\Users\zerop\source\repos\GreatestCommonDivisor\GreatestCommonDivisor\obj\Debug\netcoreapp3.1\GreatestCommonDivisor.AssemblyInfoInputs.cache
+C:\Users\zerop\source\repos\GreatestCommonDivisor\GreatestCommonDivisor\obj\Debug\netcoreapp3.1\GreatestCommonDivisor.AssemblyInfo.cs
+C:\Users\zerop\source\repos\GreatestCommonDivisor\GreatestCommonDivisor\obj\Debug\netcoreapp3.1\GreatestCommonDivisor.csproj.CoreCompileInputs.cache
+C:\Users\zerop\source\repos\GreatestCommonDivisor\GreatestCommonDivisor\obj\Debug\netcoreapp3.1\GreatestCommonDivisor.dll
+C:\Users\zerop\source\repos\GreatestCommonDivisor\GreatestCommonDivisor\obj\Debug\netcoreapp3.1\GreatestCommonDivisor.pdb
+C:\Users\zerop\source\repos\GreatestCommonDivisor\GreatestCommonDivisor\obj\Debug\netcoreapp3.1\GreatestCommonDivisor.genruntimeconfig.cache
